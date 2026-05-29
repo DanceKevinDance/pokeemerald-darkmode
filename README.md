@@ -43,6 +43,9 @@ Assuming the hack shared a lineage with pret's pokeemerald, check the releases o
 
 ## My Other Projects:
 
+[Pokémon Emerald - Dark Mode](https://github.com/DanceKevinDance/pokeemerald-darkmode)
+- [Pokémon Heart & Soul - Dark Mode][https://github.com/DanceKevinDance/pokemonHnS-darkmode)
+
 [Pokémon Crystal Dark Mode](https://github.com/DanceKevinDance/pokecrystal_darkmode)
 - [Pokémon Super Crystal - Dark Mode](https://github.com/DanceKevinDance/Pokemon_Super_Crystal_DarkMode/releases/tag/release)
 
